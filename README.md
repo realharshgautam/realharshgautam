@@ -13,13 +13,13 @@
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Harsh, a 2nd year computer science Undergraduate from Lakshmi Narain College of Technology, Bhopal. I'm an AI/ML Enthusiast, a UI?UX developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Harsh, a 2nd year computer science Undergraduate from Lakshmi Narain College of Technology, Bhopal. I'm an AI/ML Enthusiast, a UI/UX developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
 
 - 🌱 I’m currently learning **<code>Machine learning</code>,<code> Aritifical intelligence </code>,<code>AR/VR</code>, <code>Full Stack Web Development</code>**
 
 - 💬 Ask me about **<code>C++</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>React</code>**
 
-- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/realharshgautam/">LinkedIn</a></code>** **<code>[Gmail](mailto:harshgautam07@outlook.com)</code>**
+- 📫 How to reach me **<code><a href="https://www.linkedin.com/in/realharshgautam/">LinkedIn</a></code>** **<code>[mail](mailto:harshgautam07@outlook.com)</code>**
 
 - 👨‍💻 Check out my projects **<code>[here!](https://github.com/realharshgautam?tab=repositories)</code>**
 
