@@ -10,7 +10,7 @@
 <p align="left"> 
 
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taniaduggal&label=Profile%20views&color=0e75b6&style=flat" alt="taniaduggal" /> </p>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 <p><i> I'm Harsh, a 2nd year computer science Undergraduate from Lakshmi Narain College of Technology, Bhopal. I'm an AI/ML Enthusiast, a UI/UX developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
