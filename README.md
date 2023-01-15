@@ -1,3 +1,8 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+
 <!-- <h1 align="center">Hi <img src="https://imgur.com/CTPzCrS.gif" height=30px width=30px>, I'm Harsh Gautam</h1> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
