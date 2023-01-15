@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-<h3 align="center">20 y/o |Founder - 8bit Warriors | Rakhi Walaa | LCC Core Member | GCCP Volunteer | Sophomore | LNCT '25 | Python | Artificial Intelligence | Machine Learning | 20 y/o | More than just a Tech Enthusiast from India </h3>
+<h3 align="center">20 y/o |Founder - 8bit Warriors | Rakhi Walaa | LCC Core Member | GCCP Volunteer | Sophomore | LNCT '25 | Python | Artificial Intelligence | Machine Learning | India </h3>
 
 <p align="left"> 
 
