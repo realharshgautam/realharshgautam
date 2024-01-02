@@ -10,8 +10,8 @@
   </a>
 </h1>
 
-<h3 align="center">22 y/o | Founder @ 8bit Warriors | Entrepreneur, Rakhi Wala CEO
-| Web Dev | Python | Artificial Intelligence | Machine Learning | India </h3>
+<h3 align="center">22 y/o | Founder @ 8bit Warriors | Entrepreneur, Rakhi Wala CEO </h3>
+<h4 Web Dev | Python | Artificial Intelligence | Machine Learning | India </h4>
 
 <p align="left"> 
 
