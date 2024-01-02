@@ -10,7 +10,8 @@
   </a>
 </h1>
 
-<h3 align="center">20 y/o |Founder - 8bit Warriors | Rakhi Walaa | LCC Core Member | GCCP Volunteer | Sophomore | LNCT '25 | Python | Artificial Intelligence | Machine Learning | India </h3>
+<h3 align="center">22 y/o |Founder @ 8bit Warriors | Entrepreneur, Rakhi Wala CEO
+Web Dev| Python | Artificial Intelligence | Machine Learning | India </h3>
 
 <p align="left"> 
 
@@ -18,7 +19,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniaduggal&label=Profile%20views&color=0e75b6&style=flat" alt="taniaduggal" /> </p>
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
-<p><i> I'm Harsh, a 2nd year computer science Undergraduate from Lakshmi Narain College of Technology, Bhopal. I'm an AI/ML Enthusiast, a UI/UX developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Harsh, a pre-final year computer science Undergraduate from Lakshmi Narain College of Technology, Bhopal. I'm an AI/ML Enthusiast, a UI/UX developer and an Open Source Contributor. I love to explore and learn about new domains.</i></p>
 
 - 🌱 I’m currently learning **<code>Machine learning</code>,<code> Aritifical intelligence </code>,<code>AR/VR</code>, <code>Full Stack Web Development</code>**
 
